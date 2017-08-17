@@ -7,7 +7,7 @@ Sebuah Framework berbasis PHP untuk semua jenis website
 Version: 3.0
 Last Update: 2017-04-23
 Author FrameWork: [WebHade Creative](http://www.webhade.id)
-AuthorWebsite : [KalvinKrishna](http//linkedin.com/calvinkrishna)
+AuthorWebsite : [KalvinKrishna](https://www.linkedin.com/in/calvin-krishna-putra-472331113/)
 ___
 
 ### Kebutuhan Minimum

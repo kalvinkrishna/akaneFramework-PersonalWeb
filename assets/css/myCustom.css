@@ -1,0 +1,20 @@
+.bd-emoji{
+  padding: 0px 5px;
+}
+
+.withImage{
+    position: relative;
+    background:url("../img/101657_beach-coastal-digital-sunset_1920x1200_h.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.titles .title, .titles .subtitle{
+  color: #FFF !important;
+}
+.titles strong{
+  color: rgba(52, 73, 94,1.0);
+}
+
+.field{
+  background:rgba(127, 140, 141,0.4);
+}

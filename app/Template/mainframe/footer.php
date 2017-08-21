@@ -6,7 +6,7 @@
         <strong>Copyright 2017</strong> &#169 <a href='http://exploria.id'>EXPLORIA Inc</a>. All rights reserved
       </p>
       <p>
-        <a class="icon" href="https://github.com/jgthms/bulma">
+        <a class="icon" href="https://github.com/kalvinkrishna/akaneFramework-PersonalWeb">
           <i class="fa fa-github"></i>
         </a>
       </p>

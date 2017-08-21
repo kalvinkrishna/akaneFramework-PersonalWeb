@@ -8,13 +8,17 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
-.titles .title, .titles .subtitle{
+.titles .title, .titles .subtitle , .level-item div p, .sosialmediatitle, .forms li a , .forms li::before{
   color: #FFF !important;
 }
 .titles strong{
   color: rgba(52, 73, 94,1.0);
 }
-
-.field{
-  background:rgba(127, 140, 141,0.4);
+.sosialmediatitle{
+	margin-top: 1.5em !important;
+	margin-bottom: 1.5em !important;
 }
+.searchingbox{
+	border-radius: 50px;
+}
+

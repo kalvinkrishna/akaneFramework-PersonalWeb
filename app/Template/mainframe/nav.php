@@ -1,11 +1,11 @@
 
-<a class="navbar-item is-active is-hoverable" href="/documentation/overview/start/">
+<a class="navbar-item is-active is-hoverable" href="<?= __SITEURL__ ?>/homepages">
     <span class='bd-emoji fa fa-home'></span>
     Home
 </a>
 
 <div class="navbar-item has-dropdown is-hoverable">
-        <a class="navbar-link " href="http://bulma.io/blog/">
+        <a class="navbar-link " href="<?= __SITEURL__ ?>/explore">
           Explore Bandung
         </a>
         <div id="blogDropdown" class="navbar-dropdown " data-style="width: 18rem;">
@@ -99,7 +99,7 @@
 
 
 <a class="navbar-item " href="http://bulma.io/expo/">
-        <span class="bd-emoji fa fa-phone"></span>
+        <span class="bd-emoji fa fa-phone" style='color:rgba(39, 174, 96,1.0);'></span>
          Contact
 </a>
 <a class="navbar-item " href="http://bulma.io/love/">

@@ -1,0 +1,22 @@
+body .main {
+    background-color: green;
+}
+
+#pentagon {
+    color: black;
+}
+
+#pentagon div {
+    width: 30px;
+    height: 30px;
+}
+
+#pentagon div span {
+    text-align: center;
+    font-family: arial;
+    text-decoration: none;
+    font-weight: 400;
+}
+
+
+/*# sourceMappingURL=bundle.css.map */
